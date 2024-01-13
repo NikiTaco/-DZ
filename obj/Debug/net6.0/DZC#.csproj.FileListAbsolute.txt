@@ -1,0 +1,15 @@
+C:\Users\Gamer\Desktop\DZC#\bin\Debug\net6.0\DZC#.exe
+C:\Users\Gamer\Desktop\DZC#\bin\Debug\net6.0\DZC#.deps.json
+C:\Users\Gamer\Desktop\DZC#\bin\Debug\net6.0\DZC#.runtimeconfig.json
+C:\Users\Gamer\Desktop\DZC#\bin\Debug\net6.0\DZC#.dll
+C:\Users\Gamer\Desktop\DZC#\bin\Debug\net6.0\DZC#.pdb
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.dll
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\refint\DZC#.dll
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.pdb
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\DZC#.genruntimeconfig.cache
+C:\Users\Gamer\Desktop\DZC#\obj\Debug\net6.0\ref\DZC#.dll
